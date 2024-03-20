@@ -10,6 +10,12 @@
       "icon": "arrow-up-right",
       "name": "Commander: Push+",
       "mode": "any"
+    },
+    {
+      "id": "obsidian-git:pull",
+      "icon": "arrow-down-left",
+      "name": "Git: Pull",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],

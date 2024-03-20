@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
+                "file": "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Satyr locations.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
+                "file": "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Satyr locations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
+                "file": "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Satyr locations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md"
+                "file": "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Satyr locations.md"
               }
             }
           },
@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 414.5
+    "width": 399.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -161,16 +161,18 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "workspaces:Manage workspace layouts": false
+      "workspaces:Manage workspace layouts": false,
+      "cmdr:Commander: Push+": false,
+      "cmdr:Git: Pull": false
     }
   },
   "active": "0be95f2fb4c6d977",
   "lastOpenFiles": [
+    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Satyr locations.md",
+    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Djin culture.md",
     "Lost Mines of Phandelver/1. Players/Narip.md",
-    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Satyr locations.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Satyr culture.md",
-    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
     "zImages",
     "zImages/High_Forest.webp",
     "tokens/High_Forest.webp.crdownload",

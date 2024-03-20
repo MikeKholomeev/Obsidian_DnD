@@ -1,0 +1,24 @@
+{
+  "editor:rename-heading": [
+    {
+      "modifiers": [],
+      "key": "F3"
+    }
+  ],
+  "command-palette:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": " "
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "A"
+    }
+  ]
+}

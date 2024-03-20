@@ -1,0 +1,72 @@
+{
+  "settings": {
+    "migrated": 4,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "BoBxWorld",
+      "BoBxImages",
+      "RaDoubleTeam",
+      "TiMessageCircleQuestion",
+      "TiUser",
+      "CoListUnordered",
+      "TiClipboardList"
+    ],
+    "recentlyUsedIconsSize": 12,
+    "rules": [
+      {
+        "rule": "4. Sessions",
+        "icon": "TiClipboardList",
+        "for": "files",
+        "order": 0,
+        "useFilePath": true
+      },
+      {
+        "rule": "5. Known Characters",
+        "icon": "TiUser",
+        "for": "files",
+        "order": 1,
+        "useFilePath": true
+      },
+      {
+        "rule": "3. Ongoing Quests",
+        "icon": "TiMessageCircleQuestion",
+        "for": "files",
+        "order": 2,
+        "useFilePath": true
+      }
+    ],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": true,
+    "iconsInNotesEnabled": true,
+    "iconIdentifier": ":"
+  },
+  "Lost Mines of Phandelver/1. Players": "IbSharing",
+  "Lost Mines of Phandelver/1. Players/Narip.md": "LiGuitar",
+  "Lost Mines of Phandelver/3. Ongoing Quests": "TiMapQuestion",
+  "Lost Mines of Phandelver/4. Sessions": "RaCrossedSabres",
+  "Lost Mines of Phandelver/1. Players/Helga.md": "TiBarbellOff",
+  "Lost Mines of Phandelver/1. Players/Kiran.md": "RaBearTrap",
+  "Lost Mines of Phandelver/1. Players/Rendal.md": "RaDrippingKnife",
+  "Lost Mines of Phandelver/4. Sessions/1 session.md": "TiClipboardList",
+  "Lost Mines of Phandelver/4. Sessions/2 session.md": "TiClipboardList",
+  "Lost Mines of Phandelver/3. Ongoing Quests/Книга гнома.md": "TiMessageCircleQuestion",
+  "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md": "TiMessageCircleQuestion",
+  "Lost Mines of Phandelver/5. Known Characters": "CoUsersGroup",
+  "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md": "TiUser",
+  "Lost Mines of Phandelver/5. Known Characters/Калеб Ремотре - алхимик.md": "TiUser",
+  "Lost Mines of Phandelver/5. Known Characters/Юрген - бард.md": "TiUser",
+  "Lost Mines of Phandelver/1. Players/_Party.md": "RaDoubleTeam",
+  "tokens": "BoBxImages",
+  "Lost Mines of Phandelver": "BoBxWorld"
+}

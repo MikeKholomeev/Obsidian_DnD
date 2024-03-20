@@ -3,7 +3,7 @@ layout: Short Sheet
 name: Narip
 columnWidth: 100%
 columns: 1
-img: [tokens/Narip.jpg]
+img: [zImages/tokens/Narip.jpg]
 image: [tokens/Narip.jpg]
 stats: [14,14,12,8,10,18]
 level: 5

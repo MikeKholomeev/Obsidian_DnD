@@ -6,6 +6,8 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "BoBxsMagicWand",
+      "TiCloudNetwork",
       "BoBxWorld",
       "BoBxImages",
       "RaDoubleTeam",
@@ -52,7 +54,7 @@
     "iconIdentifier": ":"
   },
   "Lost Mines of Phandelver/1. Players": "IbSharing",
-  "Lost Mines of Phandelver/1. Players/Narip.md": "LiGuitar",
+  "Lost Mines of Phandelver/1. Players/Narip.md": "BoBxsMagicWand",
   "Lost Mines of Phandelver/3. Ongoing Quests": "TiMapQuestion",
   "Lost Mines of Phandelver/4. Sessions": "RaCrossedSabres",
   "Lost Mines of Phandelver/1. Players/Helga.md": "TiBarbellOff",
@@ -67,6 +69,8 @@
   "Lost Mines of Phandelver/5. Known Characters/Калеб Ремотре - алхимик.md": "TiUser",
   "Lost Mines of Phandelver/5. Known Characters/Юрген - бард.md": "TiUser",
   "Lost Mines of Phandelver/1. Players/_Party.md": "RaDoubleTeam",
-  "tokens": "BoBxImages",
-  "Lost Mines of Phandelver": "BoBxWorld"
+  "Lost Mines of Phandelver": "BoBxWorld",
+  "Lost Mines of Phandelver/9. Custom Thoughts": "TiCloudNetwork",
+  "zImages": "BoBxImages",
+  "zImages/tokens": "BoBxImages"
 }

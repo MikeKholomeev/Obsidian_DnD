@@ -23,12 +23,6 @@ saves:
   - Cha: 7
 senses: Perception 10, Intimidation 17, Deception 17, Performance 17, Persuasion 17
 languages: -- Common, Sylvan, Abyssal, Draconic
-bonus_actions:
-  - name: Misty Steps
-    desc: teleport 30ft (Long Rest)
-reactions:
-  - name: Silverly Barbs
-    desc: force to re-roll dices (Long Rest)
 
 spells_rituals:
   - __________________

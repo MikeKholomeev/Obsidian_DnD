@@ -1,4 +1,4 @@
-###### Djin culture
+###### Efreeti culture
 - Эгоистичные
 - Власть
 - Деньги

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lost Mines of Phandelver/1. Players/Narip.md",
+                "file": "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,6 +105,45 @@
               "type": "git-view",
               "state": {}
             }
+          },
+          {
+            "id": "01d6187c449bdec6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7be1e4b98f4c3a89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7a0ab6f76dfc83a9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md"
+              }
+            }
           }
         ],
         "currentTab": 1
@@ -130,12 +169,12 @@
   },
   "active": "0be95f2fb4c6d977",
   "lastOpenFiles": [
-    "Lost Mines of Phandelver/1. Players/Kiran.md",
-    "Lost Mines of Phandelver/1. Players/Narip.md",
+    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Efreet.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
-    "Lost Mines of Phandelver/1. Players/Rendal.md",
-    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Efreeti.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Satyr culture.md",
+    "Lost Mines of Phandelver/1. Players/Narip.md",
+    "Lost Mines of Phandelver/1. Players/Kiran.md",
+    "Lost Mines of Phandelver/1. Players/Rendal.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Satyr locations.md",
     "Lost Mines of Phandelver/1. Players/_Party.md",
     "zImages",

@@ -21,16 +21,15 @@ saves:
   - Int: -1
   - Wis: 3
   - Cha: 7
-senses: Perception 10, Intimidation 17, Deception 17, Performance 17, Persuasion 17
-languages: -- Common, Sylvan, Abyssal, Draconic
+languages: Common, Sylvan, Abyssal, Draconic
 
 spells_rituals:
-  - __________________
+  - |
   - Augury:-
   - Detect Magic:-
   - Identification:-
 spells_cantrips:
-  - __________________
+  - |
   - Prestidigitation:-
   - Vicious Mockery:-
   - Mage Hand:-
@@ -38,7 +37,8 @@ spells_cantrips:
   - Infestation:-
   - Eldritch Blast:+
 spells:
-  - _______2 slots_______
+  - (2 slots)
+  - Bottled Respite: no slots / LONG REST
   - Misty Steps: no slots / LONG REST
   - Silvery Barbs: (reaction) no slots / LONG REST
   - Detect Evil and Good:-
@@ -51,30 +51,32 @@ spells:
   - Invisibility:-
   - Fireball:-
 
-Acrobatics (Dex): +2
-Animal Handling (Wis): 0  
-Arcana (Int): -1
-Athletics (Str): +2 
-Deception (Cha): +7
-History (Int): -1
-Insight (Wis): 0
-Intimidation (Cha): +7
-Investigation (Int): +2
-Medicine (Wis): 0
-Nature (Int): -1
-Perception (Wis): 0 (passive 10)
-Performance (Cha): +7
-Persuasion (Cha): + 7
-Religion (Int): -1
-Sleight of Hand (Dex): +2
-Stealth (Dex): +2
-Survival (Wis): +3
+Acrobatics: +2
+AnimalHandling: 0  
+Arcana: -1
+Athletics: +2 
+Deception: +7
+History: -1
+Insight: 0
+Intimidation: +7
+Investigation: +2
+Medicine: 0
+Nature: -1
+Perception: 10
+Performance: +7
+Persuasion: +7
+Religion: -1
+SleightofHand: +2
+Stealth: +2
+Survival: +3
 ```
 
 ___
 
-#### [[Narip]] - Избавление от власти Джина:
+#### [[Narip]] - Избавление от власти Ифрита:
 
 - результат расследования из храма Огмы :
 	- Разлом плетения
 	- все находятся на своих планах: я, патрон, лампа
+
+

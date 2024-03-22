@@ -9,13 +9,15 @@
       "id": "cmdr:macro-0",
       "icon": "arrow-up-right",
       "name": "Commander: Push+",
-      "mode": "any"
+      "mode": "any",
+      "color": "#8000ff"
     },
     {
       "id": "obsidian-git:pull",
       "icon": "arrow-down-left",
       "name": "Git: Pull",
-      "mode": "any"
+      "mode": "any",
+      "color": "#000000"
     }
   ],
   "rightRibbon": [],
@@ -28,10 +30,6 @@
         {
           "action": 0,
           "commandId": "obsidian-git:commit"
-        },
-        {
-          "action": 1,
-          "delay": "1850"
         },
         {
           "action": 0,

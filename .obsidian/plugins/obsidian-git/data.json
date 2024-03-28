@@ -1,5 +1,5 @@
 {
-  "commitMessage": "auto backup from {{hostname}}: {{date}}",
+  "commitMessage": "my backup from {{hostname}}: {{date}}",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 0,
   "autoPushInterval": 0,

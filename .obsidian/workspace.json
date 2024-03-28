@@ -4,18 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a305ba47bbcab90b",
+        "id": "8d88450f4499f067",
         "type": "tabs",
         "children": [
           {
-            "id": "3234971024080074",
+            "id": "5859460df2ac93b6",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
-              "state": {
-                "file": ".obsidian/plugins/obsidian-git/data.json",
-                "staged": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -141,7 +138,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -161,25 +158,25 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "3234971024080074",
+  "active": "5859460df2ac93b6",
   "lastOpenFiles": [
+    "Lost Mines of Phandelver/1. Players/Helga.md",
+    "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md",
+    "Lost Mines of Phandelver/4. Sessions/1 session.md",
+    "Lost Mines of Phandelver/4. Sessions/2 session.md",
+    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/помощь.md",
+    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/развлечения.md",
+    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
+    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Efreet.md",
     "Lost Mines of Phandelver/1. Players/Narip.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/Foundry.md",
     "Lost Mines of Phandelver/1. Players/Rendal.md",
-    "Lost Mines of Phandelver/4. Sessions/1 session.md",
-    "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Книга гнома.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Satyr locations.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Satyr culture.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/живут настоящим моментом и у них нет времени на обиды или мелочное поведение.md",
-    "Lost Mines of Phandelver/4. Sessions/2 session.md",
-    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Efreet.md",
-    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/помощь.md",
     "Untitled.canvas",
-    "Lost Mines of Phandelver/1. Players/Helga.md",
     "Lost Mines of Phandelver/1. Players/Kiran.md",
-    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
-    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/развлечения.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/Сатиры крикливы и веселы.md",
     "Lost Mines of Phandelver/1. Players/_Party.md",
     "zImages",

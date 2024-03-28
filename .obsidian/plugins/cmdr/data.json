@@ -44,7 +44,9 @@
   "explorer": [],
   "hide": {
     "statusbar": [],
-    "leftRibbon": []
+    "leftRibbon": [
+      "Open today's daily note"
+    ]
   },
   "spacing": 8,
   "advancedToolbar": {

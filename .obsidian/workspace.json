@@ -150,7 +150,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 375.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -162,7 +162,7 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "cmdr:Commander: Push+": false,
-      "cmdr:Git: Pull": false,
+      "cmdr:Git: Amend all changes": false,
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },

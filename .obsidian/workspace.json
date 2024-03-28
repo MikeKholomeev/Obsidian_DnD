@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e16debc7a1c62db1",
+        "id": "a305ba47bbcab90b",
         "type": "tabs",
         "children": [
           {
-            "id": "505bb063ec6b3a9c",
+            "id": "3234971024080074",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -146,7 +146,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -166,8 +166,9 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "505bb063ec6b3a9c",
+  "active": "3234971024080074",
   "lastOpenFiles": [
+    "Lost Mines of Phandelver/1. Players/Rendal.md",
     "Lost Mines of Phandelver/4. Sessions/1 session.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Книга гнома.md",
@@ -178,7 +179,6 @@
     "Lost Mines of Phandelver/4. Sessions/2 session.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Efreet.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/помощь.md",
-    "Lost Mines of Phandelver/1. Players/Rendal.md",
     "Untitled.canvas",
     "Lost Mines of Phandelver/1. Players/Helga.md",
     "Lost Mines of Phandelver/1. Players/Kiran.md",

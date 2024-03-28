@@ -44595,7 +44595,8 @@ var ObsidianGit = class extends import_obsidian31.Plugin {
     if (!await this.commit({
       fromAutoBackup,
       requestCustomMessage,
-      commitMessage
+      commitMessage, 
+        amend: true,
     }))
       return;
     if (!this.settings.disablePush) {
@@ -45023,7 +45024,10 @@ var ObsidianGit = class extends import_obsidian31.Plugin {
   doAutoBackup() {
     this.promiseQueue.addTask(() => {
       if (this.settings.differentIntervalCommitAndPush) {
-        return this.commit({ fromAutoBackup: true });
+        return this.commit({ 
+            fromAutoBackup: true,
+            amend: true
+        });
       } else {
         return this.createBackup(true);
       }

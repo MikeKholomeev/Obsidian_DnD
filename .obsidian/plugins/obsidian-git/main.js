@@ -44017,7 +44017,17 @@ var ObsidianGit = class extends import_obsidian31.Plugin {
         () => this.commit({ fromAutoBackup: false })
       )
     });
-    this.addCommand({
+      this.addCommand({
+          id: "amend",
+          name: "Amend all changes",
+          callback: () => this.promiseQueue.addTask(
+              () => this.commit({
+                  fromAutoBackup: false,
+                  amend: true
+              })
+          )
+      });
+      this.addCommand({
       id: "commit-specified-message",
       name: "Commit all changes with specific message",
       callback: () => this.promiseQueue.addTask(

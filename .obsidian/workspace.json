@@ -65,7 +65,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -146,7 +147,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -166,7 +167,7 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "3234971024080074",
+  "active": "09f037d43c54397b",
   "lastOpenFiles": [
     "Lost Mines of Phandelver/1. Players/Rendal.md",
     "Lost Mines of Phandelver/4. Sessions/1 session.md",

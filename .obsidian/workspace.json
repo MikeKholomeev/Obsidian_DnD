@@ -6,9 +6,29 @@
       {
         "id": "e16debc7a1c62db1",
         "type": "tabs",
+        "dimension": 67.09633649932158,
         "children": [
           {
             "id": "0be95f2fb4c6d977",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "5d13d00bb02d6009",
+        "type": "tabs",
+        "dimension": 32.90366350067843,
+        "children": [
+          {
+            "id": "6e6c1181b3a9705d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -167,10 +187,13 @@
       "cmdr:Git: Pull": false
     }
   },
-  "active": "0be95f2fb4c6d977",
+  "active": "6e6c1181b3a9705d",
   "lastOpenFiles": [
-    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Efreet.md",
+    "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md",
+    "Lost Mines of Phandelver/3. Ongoing Quests/Книга гнома.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
+    "помощь.md",
+    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Efreet.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Satyr culture.md",
     "Lost Mines of Phandelver/1. Players/Narip.md",
     "Lost Mines of Phandelver/1. Players/Kiran.md",
@@ -187,7 +210,6 @@
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background",
     "Untitled.md",
-    "Lost Mines of Phandelver/3. Ongoing Quests/Книга гнома.md",
     "Lost Mines of Phandelver/9. Custom Thoughts",
     "Lost Mines of Phandelver/1. Players/Helga.md",
     "Lost Mines of Phandelver/4. Sessions/2 session.md",
@@ -195,7 +217,6 @@
     "Lost Mines of Phandelver/5. Known Characters/Калеб Ремотре - алхимик.md",
     "zImages/tokens/Narip.jpg",
     "Lost Mines of Phandelver/3. Ongoing Quests/0. Личные.md",
-    "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md",
     "Lost Mines of Phandelver/5. Known Characters/Гном нарцис.md",
     "Lost Mines of Phandelver/4. Sessions/Untitled.md",
     "Lost Mines of Phandelver/4. Sessions/Untiwwwtled.md",

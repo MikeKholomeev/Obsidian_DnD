@@ -1,4 +1,14 @@
 {
   "ITS@@select": "wotc-beyond",
-  "ITS@@paper": false
+  "ITS@@paper": true,
+  "ITS@@radius-s": 12,
+  "ITS@@ITS-Sidebar-Styling": "none",
+  "ITS@@ITS-Sidebar-Ribbon-Float": "none",
+  "ITS@@writing-document": false,
+  "ITS@@writing": false,
+  "ITS@@disable-source-styling": false,
+  "ITS@@link-font": "\"Inter\"",
+  "ITS@@ITS-Table-Alt-Colors": "none",
+  "ITS@@link-weight": 900,
+  "ITS@@link-style": "none"
 }

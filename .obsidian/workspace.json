@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md",
+                "file": "Lost Mines of Phandelver/4. Sessions/1 session.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md",
+                "file": "Lost Mines of Phandelver/4. Sessions/1 session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md",
+                "file": "Lost Mines of Phandelver/4. Sessions/1 session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,26 +141,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md"
+                "file": "Lost Mines of Phandelver/4. Sessions/1 session.md"
               }
             }
           }
         ],
-        "currentTab": 1
-      },
-      {
-        "id": "bc5e92c50ae2644a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "09ab594cbaef09ea",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -180,11 +166,11 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "b7e3583786116fa1",
+  "active": "505bb063ec6b3a9c",
   "lastOpenFiles": [
+    "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Книга гнома.md",
     "Lost Mines of Phandelver/4. Sessions/1 session.md",
-    "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md",
     "Lost Mines of Phandelver/1. Players/Narip.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Satyr locations.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Satyr culture.md",

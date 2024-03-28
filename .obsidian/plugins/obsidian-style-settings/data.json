@@ -1,7 +1,7 @@
 {
   "ITS@@select": "wotc-beyond",
   "ITS@@paper": true,
-  "ITS@@radius-s": 12,
+  "ITS@@radius-s": 0,
   "ITS@@ITS-Sidebar-Styling": "none",
   "ITS@@ITS-Sidebar-Ribbon-Float": "none",
   "ITS@@writing-document": false,
@@ -10,5 +10,17 @@
   "ITS@@link-font": "\"Inter\"",
   "ITS@@ITS-Table-Alt-Colors": "none",
   "ITS@@link-weight": 900,
-  "ITS@@link-style": "none"
+  "ITS@@link-style": "none",
+  "ITS@@slrvb-b": false,
+  "ITS@@accent-color": false,
+  "ITS@@its-d": false,
+  "ITS@@nord": false,
+  "ITS@@mini": false,
+  "ITS@@drwn": false,
+  "ITS@@t-d": false,
+  "ITS@@file-line-width": 1200,
+  "ITS@@tab-outline-width": 2,
+  "ITS@@nav-item-size": 14,
+  "ITS@@sidebar-tab-icon-size": 14,
+  "ITS@@ribbon-width": 40
 }

@@ -51,7 +51,8 @@
     "iconInFrontmatterEnabled": false,
     "iconsBackgroundCheckEnabled": true,
     "iconsInNotesEnabled": true,
-    "iconIdentifier": ":"
+    "iconIdentifier": ":",
+    "iconsInLinksEnabled": true
   },
   "Lost Mines of Phandelver/1. Players": "IbSharing",
   "Lost Mines of Phandelver/1. Players/Narip.md": "BoBxsMagicWand",

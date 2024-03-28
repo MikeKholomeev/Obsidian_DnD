@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
+                "file": "Lost Mines of Phandelver/1. Players/Narip.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
+                "file": "Lost Mines of Phandelver/1. Players/Narip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
+                "file": "Lost Mines of Phandelver/1. Players/Narip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md"
+                "file": "Lost Mines of Phandelver/1. Players/Narip.md"
               }
             }
           }
@@ -162,11 +162,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356.5
+    "width": 356.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-5e-statblocks:Open Creature Pane": true,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -175,13 +175,15 @@
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
       "cmdr:Commander: Push+": false,
-      "cmdr:Git: Pull": false
+      "cmdr:Git: Pull": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "0be95f2fb4c6d977",
   "lastOpenFiles": [
-    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Efreet.md",
+    "Lost Mines of Phandelver/1. Players/Kiran.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
+    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Efreet.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/помощь.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/развлечения.md",
     "Lost Mines of Phandelver/1. Players/Narip.md",
@@ -190,7 +192,6 @@
     "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Книга гнома.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Satyr culture.md",
-    "Lost Mines of Phandelver/1. Players/Kiran.md",
     "Lost Mines of Phandelver/1. Players/Rendal.md",
     "Lost Mines of Phandelver/1. Players/_Party.md",
     "zImages",

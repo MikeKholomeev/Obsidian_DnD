@@ -73,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lost Mines of Phandelver/4. Sessions/session.md",
+                "file": "ztemplate/s_ession.md",
                 "mode": "source",
                 "source": false
               }
@@ -173,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lost Mines of Phandelver/4. Sessions/session.md",
+                "file": "ztemplate/s_ession.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lost Mines of Phandelver/4. Sessions/session.md",
+                "file": "ztemplate/s_ession.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lost Mines of Phandelver/4. Sessions/session.md"
+                "file": "ztemplate/s_ession.md"
               }
             }
           }
@@ -231,11 +231,10 @@
   },
   "active": "cd579dfb73aa416c",
   "lastOpenFiles": [
-    "ztemplate/s_ession.md",
     "Lost Mines of Phandelver/4. Sessions/session.md",
+    "ztemplate/s_ession.md",
     "Lost Mines of Phandelver/5. Known Characters/Untitled.md",
     "Lost Mines of Phandelver/5. Known Characters/Юрген - бард.md",
-    "Lost Mines of Phandelver/4. Sessions/session.md",
     "Lost Mines of Phandelver/4. Sessions/2 session.md",
     "Lost Mines of Phandelver/4. Sessions/3 session.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Пропавший гном нарцис.md",

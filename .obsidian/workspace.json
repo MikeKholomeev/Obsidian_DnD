@@ -11,10 +11,11 @@
             "id": "5859460df2ac93b6",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Lost Mines of Phandelver/3. Ongoing Quests/ыыыы.md",
-                "staged": false
+                "file": "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -111,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md"
+              }
             }
           }
         ],
@@ -163,9 +168,9 @@
   },
   "active": "5859460df2ac93b6",
   "lastOpenFiles": [
+    "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Пропавший гном нарцис.md",
     "Lost Mines of Phandelver/5. Known Characters/ee.md",
-    "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/ыыыы вывфвыф vcbv.md",
     "Lost Mines of Phandelver/5. Known Characters/ДамаДама.md",

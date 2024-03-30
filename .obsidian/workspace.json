@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lost Mines of Phandelver/4. Sessions/2 session.md",
-                "mode": "source",
+                "file": "Lost Mines of Phandelver/1. Players/_Party.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lost Mines of Phandelver/4. Sessions/2 session.md",
+                "file": "Lost Mines of Phandelver/1. Players/_Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lost Mines of Phandelver/4. Sessions/2 session.md",
+                "file": "Lost Mines of Phandelver/1. Players/_Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lost Mines of Phandelver/4. Sessions/2 session.md"
+                "file": "Lost Mines of Phandelver/1. Players/_Party.md"
               }
             }
           }
@@ -168,11 +168,16 @@
   },
   "active": "5eb28af6495a79a8",
   "lastOpenFiles": [
-    "Lost Mines of Phandelver/1. Players/Narip.md",
-    "Lost Mines of Phandelver/1. Players/_Party.md",
-    "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
-    "Lost Mines of Phandelver/4. Sessions/2 session.md",
     "Lost Mines of Phandelver/4. Sessions/1 session.md",
+    "Lost Mines of Phandelver/4. Sessions/2 session.md",
+    "Lost Mines of Phandelver/1. Players/_Party.md",
+    "Lost Mines of Phandelver/1. Players/Rendal.md",
+    "Lost Mines of Phandelver/1. Players/Narip.md",
+    "Lost Mines of Phandelver/1. Players/Kiran.md",
+    "Lost Mines of Phandelver/1. Players/Helga.md",
+    "_template/session.md",
+    "_template",
+    "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
     "Lost Mines of Phandelver/5. Known Characters/Юрген - бард.md",
     "Lost Mines of Phandelver/5. Known Characters/Калеб Ремотре - алхимик.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Пропавший гном нарцис.md",
@@ -183,18 +188,14 @@
     "Lost Mines of Phandelver/5. Known Characters/Гном нарцис.md",
     "Lost Mines of Phandelver/5. Known Characters/ДруидДруид.md",
     "Untitled.md",
-    "Lost Mines of Phandelver/1. Players/Helga.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/помощь.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/развлечения.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Efreet.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/Foundry.md",
-    "Lost Mines of Phandelver/1. Players/Rendal.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Satyr locations.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Satyr culture.md",
-    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/живут настоящим моментом и у них нет времени на обиды или мелочное поведение.md",
     "Untitled.canvas",
-    "Lost Mines of Phandelver/1. Players/Kiran.md",
     "zImages",
     "zImages/High_Forest.webp",
     "tokens/High_Forest.webp.crdownload",
@@ -207,7 +208,6 @@
     "zImages/tokens",
     "Lost Mines of Phandelver/4. Sessions",
     "Lost Mines of Phandelver/3. Ongoing Quests",
-    "Lost Mines of Phandelver/Characters/Untitled.canvas",
-    "Lost Mines of Phandelver/Known Characters/NPC"
+    "Lost Mines of Phandelver/Characters/Untitled.canvas"
   ]
 }

@@ -18,9 +18,10 @@
   "ITS@@mini": false,
   "ITS@@drwn": false,
   "ITS@@t-d": false,
-  "ITS@@file-line-width": 1200,
   "ITS@@tab-outline-width": 2,
   "ITS@@nav-item-size": 14,
   "ITS@@sidebar-tab-icon-size": 14,
-  "ITS@@ribbon-width": 40
+  "ITS@@ribbon-width": 40,
+  "ITS@@ITS-Sizes": "sizing-readable",
+  "ITS@@file-line-width": 1000
 }

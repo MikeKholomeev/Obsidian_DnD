@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8d88450f4499f067",
+        "id": "3dca2da5c4953c61",
         "type": "tabs",
         "children": [
           {
-            "id": "5859460df2ac93b6",
+            "id": "5eb28af6495a79a8",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -111,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md"
+              }
             }
           }
         ],
@@ -161,14 +166,13 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "5859460df2ac93b6",
+  "active": "5eb28af6495a79a8",
   "lastOpenFiles": [
+    "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
     "Lost Mines of Phandelver/4. Sessions/2 session.md",
     "Lost Mines of Phandelver/4. Sessions/1 session.md",
     "Lost Mines of Phandelver/5. Known Characters/Юрген - бард.md",
     "Lost Mines of Phandelver/5. Known Characters/Калеб Ремотре - алхимик.md",
-    "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
-    "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Пропавший гном нарцис.md",
     "Lost Mines of Phandelver/5. Known Characters/ee.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md",

@@ -18,6 +18,12 @@
       "name": "Git: Amend all changes",
       "mode": "any",
       "color": "#000000"
+    },
+    {
+      "id": "cmdr:macro-2",
+      "icon": "bell-plus",
+      "name": "Commander: New Session",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],
@@ -54,13 +60,25 @@
       "name": "Duplicate Line",
       "icon": "star",
       "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "templater-obsidian:create-new-note-from-template"
+        }
+      ],
+      "name": "New Session",
+      "icon": "star",
+      "startup": false
     }
   ],
   "explorer": [],
   "hide": {
     "statusbar": [],
     "leftRibbon": [
-      "Open today's daily note"
+      "Open today's daily note",
+      "Open Creature pane"
     ]
   },
   "spacing": 8,

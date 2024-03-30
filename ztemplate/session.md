@@ -1,4 +1,0 @@
----
-Created: "{{date}} {{time}}"
----
-

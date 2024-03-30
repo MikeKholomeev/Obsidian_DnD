@@ -11,11 +11,10 @@
             "id": "5859460df2ac93b6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           }
@@ -112,7 +111,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +127,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,9 +137,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -150,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 375.5
+    "width": 360.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -168,6 +163,11 @@
   },
   "active": "5859460df2ac93b6",
   "lastOpenFiles": [
+    "Lost Mines of Phandelver/4. Sessions/2 session.md",
+    "Lost Mines of Phandelver/4. Sessions/1 session.md",
+    "Lost Mines of Phandelver/5. Known Characters/Юрген - бард.md",
+    "Lost Mines of Phandelver/5. Known Characters/Калеб Ремотре - алхимик.md",
+    "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
     "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Пропавший гном нарцис.md",
     "Lost Mines of Phandelver/5. Known Characters/ee.md",
@@ -175,13 +175,9 @@
     "Lost Mines of Phandelver/3. Ongoing Quests/ыыыы вывфвыф vcbv.md",
     "Lost Mines of Phandelver/5. Known Characters/ДамаДама.md",
     "Lost Mines of Phandelver/5. Known Characters/Гном нарцис.md",
-    "Lost Mines of Phandelver/5. Known Characters/Юрген - бард.md",
-    "Lost Mines of Phandelver/5. Known Characters/Калеб Ремотре - алхимик.md",
     "Lost Mines of Phandelver/5. Known Characters/ДруидДруид.md",
     "Untitled.md",
     "Lost Mines of Phandelver/1. Players/Helga.md",
-    "Lost Mines of Phandelver/4. Sessions/1 session.md",
-    "Lost Mines of Phandelver/4. Sessions/2 session.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/помощь.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/развлечения.md",
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/Narip story.md",
@@ -194,7 +190,6 @@
     "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/живут настоящим моментом и у них нет времени на обиды или мелочное поведение.md",
     "Untitled.canvas",
     "Lost Mines of Phandelver/1. Players/Kiran.md",
-    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/Сатиры крикливы и веселы.md",
     "zImages",
     "zImages/High_Forest.webp",
     "tokens/High_Forest.webp.crdownload",

@@ -11,10 +11,11 @@
             "id": "5eb28af6495a79a8",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": ".obsidian/workspace.json",
-                "staged": false
+                "file": "Lost Mines of Phandelver/4. Sessions/2 session.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -111,6 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lost Mines of Phandelver/4. Sessions/2 session.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lost Mines of Phandelver/4. Sessions/2 session.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Lost Mines of Phandelver/4. Sessions/2 session.md"
+              }
             }
           }
         ],

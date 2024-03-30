@@ -39,6 +39,21 @@
       "name": "Push+",
       "icon": "arrow-up-right",
       "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "line-commands:copy-lines"
+        },
+        {
+          "action": 0,
+          "commandId": "line-commands:paste-after-line"
+        }
+      ],
+      "name": "Duplicate Line",
+      "icon": "star",
+      "startup": false
     }
   ],
   "explorer": [],

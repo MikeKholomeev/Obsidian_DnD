@@ -20,5 +20,23 @@
       ],
       "key": "A"
     }
+  ],
+  "editor:delete-paragraph": [],
+  "cmdr:macro-1": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "line-commands:cut-lines": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
   ]
 }

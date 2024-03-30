@@ -7,5 +7,9 @@
   "obsidian-image-toolkit",
   "persistent-links",
   "obsidian-style-settings",
-  "dataview"
+  "dataview",
+  "obsidian-dynamic-highlights",
+  "obsidian-smarter-md-hotkeys",
+  "line-commands",
+  "remember-cursor-position"
 ]

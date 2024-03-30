@@ -34,7 +34,7 @@
         "useFilePath": true
       },
       {
-        "rule": "3. Ongoing Quests",
+        "rule": "Ongoing Quests",
         "icon": "TiMessageCircleQuestion",
         "for": "files",
         "order": 2,

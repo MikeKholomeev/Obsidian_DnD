@@ -20,9 +20,9 @@
       "color": "#000000"
     },
     {
-      "id": "cmdr:macro-2",
-      "icon": "bell-plus",
-      "name": "Commander: New Session",
+      "id": "templater-obsidian:create-new-note-from-template",
+      "icon": "templater-icon",
+      "name": "Templater: Create new note from template",
       "mode": "any"
     }
   ],
@@ -58,17 +58,6 @@
         }
       ],
       "name": "Duplicate Line",
-      "icon": "star",
-      "startup": false
-    },
-    {
-      "macro": [
-        {
-          "action": 0,
-          "commandId": "templater-obsidian:create-new-note-from-template"
-        }
-      ],
-      "name": "New Session",
       "icon": "star",
       "startup": false
     }

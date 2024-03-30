@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "TiHomeQuestion",
       "TiLineDashed",
       "BoBxsMagicWand",
       "TiCloudNetwork",
@@ -68,5 +69,6 @@
   "Lost Mines of Phandelver/9. Custom Thoughts": "TiCloudNetwork",
   "zImages": "BoBxImages",
   "zImages/tokens": "BoBxImages",
-  "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links": "TiLineDashed"
+  "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links": "TiLineDashed",
+  "Lost Mines of Phandelver/9. Custom Thoughts/Narip background": "TiHomeQuestion"
 }

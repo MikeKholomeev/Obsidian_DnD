@@ -34,7 +34,7 @@
         "useFilePath": true
       },
       {
-        "rule": "Ongoing Quests",
+        "rule": "3. Ongoing Quests",
         "icon": "TiMessageCircleQuestion",
         "for": "files",
         "order": 2,
@@ -64,9 +64,7 @@
   "Lost Mines of Phandelver/1. Players/Rendal.md": "RaDrippingKnife",
   "Lost Mines of Phandelver/4. Sessions/1 session.md": "TiClipboardList",
   "Lost Mines of Phandelver/4. Sessions/2 session.md": "TiClipboardList",
-  "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md": "TiMessageCircleQuestion",
   "Lost Mines of Phandelver/5. Known Characters": "CoUsersGroup",
-  "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md": "TiUser",
   "Lost Mines of Phandelver/5. Known Characters/Калеб Ремотре - алхимик.md": "TiUser",
   "Lost Mines of Phandelver/5. Known Characters/Юрген - бард.md": "TiUser",
   "Lost Mines of Phandelver/1. Players/_Party.md": "RaDoubleTeam",
@@ -75,5 +73,5 @@
   "zImages": "BoBxImages",
   "zImages/tokens": "BoBxImages",
   "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links": "TiLineDashed",
-  "Lost Mines of Phandelver/3. Ongoing Quests/Пропавший гном нарцис.md": "TiMessageCircleQuestion"
+  "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md": "TiUser"
 }

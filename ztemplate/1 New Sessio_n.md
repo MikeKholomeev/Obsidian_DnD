@@ -9,7 +9,6 @@ const last_number = app.vault.getMarkdownFiles()
 const next_number = last_number + 1;
 await tp.file.rename(`${next_number} session`);
 
-debugger;
 const next_session_file = tp.file.find_tfile(`${next_number} session`);
 const last_session_file =  tp.file.find_tfile(`${last_number} session`);
 await app.vault.process(last_session_file, (data) => {

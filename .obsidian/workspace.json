@@ -11,14 +11,40 @@
             "id": "46d001eb6df70214",
             "type": "leaf",
             "state": {
-              "type": "diff-view",
+              "type": "markdown",
               "state": {
-                "file": "Lost Mines of Phandelver/4. Sessions/2 session.md",
-                "staged": false
+                "file": "ztemplate/1 New Sessio_n.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3360ec1ff0f14dc7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ztemplate/---.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec801e46147ef110",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ztemplate/---.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -111,6 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ztemplate/---.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,6 +154,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ztemplate/---.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +165,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ztemplate/---.md"
+              }
             }
           }
         ],
@@ -145,7 +175,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,8 +194,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "46d001eb6df70214",
+  "active": "ec801e46147ef110",
   "lastOpenFiles": [
+    "Lost Mines of Phandelver/4. Sessions/3 sssss.md",
+    "ztemplate/---.md",
+    "ztemplate/3 sssss.md",
+    "ztemplate/noteTemplate.md",
     "ztemplate/1 New Sessio_n.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Пропавший гном нарцис.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md",
@@ -187,9 +222,6 @@
     "ztemplate/3_session.md",
     "ztemplate/2_session.md",
     "ztemplate/2 session.md",
-    "ztemplate/2session.md",
-    "ztemplate/2.md",
-    "Lost Mines of Phandelver/3. Ongoing Quests/2 session.md",
     "ztemplate",
     "Untitled.canvas",
     "zImages",

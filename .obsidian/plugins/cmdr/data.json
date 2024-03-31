@@ -72,10 +72,10 @@
       "macro": [
         {
           "action": 0,
-          "commandId": "file-explorer:new-file-in-current-tab"
+          "commandId": "templater-obsidian:ztemplate/---.md"
         }
       ],
-      "name": "Insert New Session",
+      "name": "Insert New ---",
       "icon": "alarm-plus",
       "startup": false
     }

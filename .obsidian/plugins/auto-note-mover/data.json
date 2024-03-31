@@ -7,6 +7,11 @@
       "folder": "Lost Mines of Phandelver/4. Sessions",
       "tag": "",
       "pattern": "session"
+    },
+    {
+      "folder": "Lost Mines of Phandelver/5. Known Characters",
+      "tag": "",
+      "pattern": "newcharacter"
     }
   ],
   "use_regex_to_check_for_excluded_folder": false,

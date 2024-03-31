@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ztemplate/noteTemplate.md",
+                "file": "ztemplate/2 New Characte_r.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ztemplate/noteTemplate.md",
+                "file": "ztemplate/2 New Characte_r.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ztemplate/noteTemplate.md",
+                "file": "ztemplate/2 New Characte_r.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ztemplate/noteTemplate.md"
+                "file": "ztemplate/2 New Characte_r.md"
               }
             }
           }
@@ -172,15 +172,15 @@
   },
   "active": "88b2d9a87b7cc050",
   "lastOpenFiles": [
-    "ztemplate/dataview.md",
-    "ztemplate/2 New Characte_r.md",
-    "Lost Mines of Phandelver/1. Players/Untitled.md",
-    "Lost Mines of Phandelver/5. Known Characters/{{new character}}.md",
-    "ztemplate/Сессии с этим файлом.md",
-    "Lost Mines of Phandelver/5. Known Characters/{{new character}} 1.md",
-    "ztemplate/noteTemplate.md",
-    "ztemplate/1 New Sessio_n.md",
     "Lost Mines of Phandelver/1. Players/Rendal.md",
+    "Lost Mines of Phandelver/5. Known Characters/{{new character}}.md",
+    "ztemplate/2 New Characte_r.md",
+    "ztemplate/Сессии с этим файлом.md",
+    "ztemplate/noteTemplate.md",
+    "ztemplate/dataview.md",
+    "Lost Mines of Phandelver/1. Players/Untitled.md",
+    "Lost Mines of Phandelver/5. Known Characters/{{new character}} 1.md",
+    "ztemplate/1 New Sessio_n.md",
     "ztemplate/newcharacter.md",
     "Lost Mines of Phandelver/4. Sessions/2 session.md",
     "Lost Mines of Phandelver/4. Sessions/3 session.md",

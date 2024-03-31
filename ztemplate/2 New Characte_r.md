@@ -10,11 +10,6 @@ const template = tp.file.find_tfile("noteTemplate");
 await tp.file.create_new(template, new_char_name, true, tfolder);
 debugger;
 const template2 = tp.file.find_tfile("Сессии с этим файлом");
-await tp.file.include(template2);
--%>
+tR += await tp.file.include(template2);
+%>
 
-###### Есть в Сессиях
-```dataview
-list
-from "Lost Mines of Phandelver/4. Sessions" and [[]]
-```

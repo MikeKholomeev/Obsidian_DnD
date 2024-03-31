@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "46d001eb6df70214",
+            "id": "88b2d9a87b7cc050",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 340.5
+    "width": 340.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,18 +170,22 @@
       "cmdr:Commander: New Character": false
     }
   },
-  "active": "46d001eb6df70214",
+  "active": "88b2d9a87b7cc050",
   "lastOpenFiles": [
-    "ztemplate/1 New Sessio_n.md",
-    "ztemplate/newcharacter.md",
-    "ztemplate/2 New Characte_r.md",
+    "Lost Mines of Phandelver/1. Players/Untitled.md",
     "Lost Mines of Phandelver/5. Known Characters/{{new character}}.md",
+    "ztemplate/2 New Characte_r.md",
+    "ztemplate/Сессии с этим файлом.md",
+    "ztemplate/dataview.md",
+    "Lost Mines of Phandelver/5. Known Characters/{{new character}} 1.md",
+    "ztemplate/noteTemplate.md",
+    "ztemplate/1 New Sessio_n.md",
+    "Lost Mines of Phandelver/1. Players/Rendal.md",
+    "ztemplate/newcharacter.md",
     "Lost Mines of Phandelver/4. Sessions/2 session.md",
     "Lost Mines of Phandelver/4. Sessions/3 session.md",
     "Lost Mines of Phandelver/5. Known Characters/Юрген - бард.md",
     "Lost Mines of Phandelver/4. Sessions/4 session.md",
-    "ztemplate/dataview.md",
-    "ztemplate/noteTemplate.md",
     "Lost Mines of Phandelver/4. Sessions/1 session.md",
     "ztemplate/---.md",
     "Lost Mines of Phandelver/4. Sessions/3 sssss.md",
@@ -193,9 +198,6 @@
     "Lost Mines of Phandelver/5. Known Characters/ДруидДруид.md",
     "Lost Mines of Phandelver/5. Known Characters/Калеб Ремотре - алхимик.md",
     "Lost Mines of Phandelver/5. Known Characters/Гном нарцис.md",
-    "Lost Mines of Phandelver/5. Known Characters/Volotamp Getdarm - bard.md",
-    "ztemplate/Сессии с этим файлом.md",
-    "Lost Mines of Phandelver/1. Players/Rendal.md",
     "ztemplate",
     "Untitled.canvas",
     "zImages",

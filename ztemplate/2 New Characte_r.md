@@ -1,11 +1,14 @@
----
-Created: <% tp.file.creation_date('YYYY-MM-DD') %>
----
-<% tp.file.rename("newcharacter") %>
+<%*
+const folder = "5. Known Characters";
+const tfolder = app.vault.getMarkdownFiles()
+					.filter(x => x.path.includes(folder))[0]
+					.parent;
 
+const new_char_name = `{{new character}}`;
 
-###### Есть в Сессиях
-```dataview
-list
-from "Lost Mines of Phandelver/4. Sessions" and [[]]
-```
+const template = tp.file.find_tfile("noteTemplate");
+await tp.file.create_new(template, new_char_name, true, tfolder);
+const template2 = tp.file.find_tfile("Сессии с этим файлом");
+tp.file.include(template2);
+-%>
+Apply template ???????????????????

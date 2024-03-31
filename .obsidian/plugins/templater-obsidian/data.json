@@ -12,18 +12,13 @@
   "enable_system_commands": false,
   "shell_path": "",
   "user_scripts_folder": "",
-  "enable_folder_templates": true,
-  "folder_templates": [
-    {
-      "folder": "Lost Mines of Phandelver/4. Sessions",
-      "template": "ztemplate/s_ession.md"
-    }
-  ],
+  "enable_folder_templates": false,
+  "folder_templates": [],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "ztemplate/1 New Sessio_n.md",
-    "ztemplate/---.md"
+    "ztemplate/2 New Characte_r.md"
   ],
   "startup_templates": [
     ""

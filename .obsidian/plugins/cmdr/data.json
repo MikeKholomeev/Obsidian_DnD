@@ -31,6 +31,12 @@
       "icon": "alarm-plus",
       "name": "Commander: Insert New Session",
       "mode": "any"
+    },
+    {
+      "id": "cmdr:macro-3",
+      "icon": "at-sign",
+      "name": "Commander: New Character",
+      "mode": "any"
     }
   ],
   "rightRibbon": [],
@@ -72,11 +78,22 @@
       "macro": [
         {
           "action": 0,
-          "commandId": "templater-obsidian:ztemplate/---.md"
+          "commandId": "templater-obsidian:ztemplate/1 New Sessio_n.md"
         }
       ],
-      "name": "Insert New ---",
+      "name": "Insert New Session",
       "icon": "alarm-plus",
+      "startup": false
+    },
+    {
+      "macro": [
+        {
+          "action": 0,
+          "commandId": "templater-obsidian:ztemplate/2 New Characte_r.md"
+        }
+      ],
+      "name": "New Character",
+      "icon": "at-sign",
       "startup": false
     }
   ],

@@ -3,12 +3,24 @@ Created: <% tp.file.creation_date('YYYY-MM-DD') %>
 ---
 <%*
 const folder = "4. Sessions";
-const next_number = app.vault.getMarkdownFiles()
+const last_number = app.vault.getMarkdownFiles()
 					.filter(x => x.path.includes(folder))
-					.map(x=> x.basename.split(" ")[0])
-					.sort((a, b)=> a > b)[0];
+					.length;
+const next_number = last_number + 1;
+await tp.file.rename(`${next_number} session`);
+
+debugger;
+const next_session_file = tp.file.find_tfile(`${next_number} session`);
+const last_session_file =  tp.file.find_tfile(`${last_number} session`);
+await app.vault.process(last_session_file, (data) => {
+  // Append content (use \n for line break)
+  return data + `\n\n[далее :: [[${next_session_file.basename}]]]`;
+});
 -%>
 
-<% tp.file.rename("session"); %>
+await app.vault.process(last_session_file, (data) => {
+  // Append content (use \n for line break)
+  return data + `\n\n[далее :: [[${next_session_file.path()}]]`;
+});
 
 next_number = 1 + next_number;

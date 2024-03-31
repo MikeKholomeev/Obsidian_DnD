@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lost Mines of Phandelver/4. Sessions/2 session.md",
+                "file": "ztemplate/S_ession.md",
                 "mode": "source",
                 "source": false
               }
@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lost Mines of Phandelver/4. Sessions/2 session.md",
+                "file": "ztemplate/S_ession.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lost Mines of Phandelver/4. Sessions/2 session.md",
+                "file": "ztemplate/S_ession.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +141,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lost Mines of Phandelver/4. Sessions/2 session.md"
+                "file": "ztemplate/S_ession.md"
               }
             }
           }
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 360.5
+    "width": 237.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,10 +170,18 @@
   },
   "active": "46d001eb6df70214",
   "lastOpenFiles": [
-    "Lost Mines of Phandelver/4. Sessions/1 session.md",
+    "ztemplate/Untitled.md",
+    "Lost Mines of Phandelver/4. Sessions/12 session.md",
+    "ztemplate/S_ession.md",
+    "ztemplate/2 session.md",
     "Lost Mines of Phandelver/4. Sessions/2 session.md",
-    "ztemplate/s_ession.md",
-    "ztemplate/c_haracter.md",
+    "Lost Mines of Phandelver/4. Sessions/21 session.md",
+    "ztemplate/Ch_aracter.md",
+    "Lost Mines of Phandelver/4. Sessions/Untitled.md",
+    "Lost Mines of Phandelver/4. Sessions/1 session.md",
+    "Lost Mines of Phandelver/4. Sessions/ session.md",
+    "Lost Mines of Phandelver/4. Sessions/NaNsession.md",
+    "Lost Mines of Phandelver/4. Sessions/NaN session.md",
     "Lost Mines of Phandelver/5. Known Characters/newcharacter.md",
     "Lost Mines of Phandelver/5. Known Characters/Юрген - бард.md",
     "Lost Mines of Phandelver/5. Known Characters/Калеб Ремотре - алхимик.md",
@@ -187,15 +196,7 @@
     "Lost Mines of Phandelver/1. Players/_Party.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Пропавший гном нарцис.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Untitled.md",
-    "Lost Mines of Phandelver/4. Sessions/session.md",
-    "Lost Mines of Phandelver/4. Sessions/3 session.md",
-    "Lost Mines of Phandelver/1. Players/Helga.md",
-    "Lost Mines of Phandelver/1. Players/Kiran.md",
     "ztemplate",
-    "Lost Mines of Phandelver/5. Known Characters/ee.md",
-    "Lost Mines of Phandelver/3. Ongoing Quests/ыыыы вывфвыф vcbv.md",
-    "Untitled.md",
-    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/помощь.md",
     "Untitled.canvas",
     "zImages",
     "zImages/High_Forest.webp",

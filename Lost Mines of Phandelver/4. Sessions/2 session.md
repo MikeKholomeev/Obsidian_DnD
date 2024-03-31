@@ -11,3 +11,6 @@ Helga, Rendal, Kiran и Narip пришли к таксидермисту, но �
 
 <% tp.file.rename("session") %>
 
+```dataview
+table заказчик from file
+```

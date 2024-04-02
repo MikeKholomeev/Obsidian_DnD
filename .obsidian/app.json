@@ -16,6 +16,7 @@
   "attachmentFolderPath": "zImages",
   "userIgnoreFilters": [
     "zImages/",
-    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/"
+    "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links/",
+    "ztemplate/"
   ]
 }

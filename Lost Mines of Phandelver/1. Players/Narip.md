@@ -1,4 +1,3 @@
-
 ##### Чарник
 ```statblock
 layout: Short Sheet

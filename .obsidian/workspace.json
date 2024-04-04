@@ -161,18 +161,18 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-5e-statblocks:Open Creature pane": false,
       "templater-obsidian:Templater": false,
       "cmdr:Commander: Push+": false,
       "cmdr:Git: Amend all changes": false,
       "cmdr:Commander: Insert New Session": false,
-      "cmdr:Commander: New Character": false
+      "cmdr:Commander: New Character": false,
+      "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
   "active": "88b2d9a87b7cc050",
   "lastOpenFiles": [
-    "Lost Mines of Phandelver/1. Players/Rendal.md",
     "Lost Mines of Phandelver/1. Players/Narip.md",
+    "Lost Mines of Phandelver/1. Players/Rendal.md",
     "Lost Mines of Phandelver/1. Players/Kiran.md",
     "Lost Mines of Phandelver/1. Players/_Party.md",
     "Lost Mines of Phandelver/1. Players/Helga.md",

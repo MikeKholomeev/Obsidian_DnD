@@ -1,4 +1,5 @@
-##### Чарник
+##### Character Sheet
+
 ```statblock
 layout: Short Sheet
 name: Narip

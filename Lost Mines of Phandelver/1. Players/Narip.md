@@ -1,5 +1,4 @@
 ##### Character Sheet
-
 ```statblock
 layout: Short Sheet
 name: Narip
@@ -73,8 +72,8 @@ Stealth: +2
 Survival: +3
 ```
 
-___
 
+##### Квесты
 
 ![[Narip - Избавление от власти Ифрита]]
 

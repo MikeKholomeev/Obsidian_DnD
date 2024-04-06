@@ -38,5 +38,23 @@
       ],
       "key": "D"
     }
+  ],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "S"
+    }
+  ],
+  "editor:toggle-source": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }

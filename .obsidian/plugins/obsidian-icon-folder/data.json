@@ -6,6 +6,7 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "OcOrganization16",
       "TiHomeQuestion",
       "TiLineDashed",
       "BoBxsMagicWand",
@@ -40,6 +41,12 @@
         "for": "files",
         "order": 2,
         "useFilePath": true
+      },
+      {
+        "rule": "6. Known Organization",
+        "icon": "OcOrganization16",
+        "for": "everything",
+        "order": 3
       }
     ],
     "extraMargin": {
@@ -70,5 +77,6 @@
   "zImages": "BoBxImages",
   "zImages/tokens": "BoBxImages",
   "Lost Mines of Phandelver/9. Custom Thoughts/Narip background/_links": "TiLineDashed",
-  "Lost Mines of Phandelver/9. Custom Thoughts/Narip background": "TiHomeQuestion"
+  "Lost Mines of Phandelver/9. Custom Thoughts/Narip background": "TiHomeQuestion",
+  "Lost Mines of Phandelver/6. Known Organization": "OcOrganization16"
 }

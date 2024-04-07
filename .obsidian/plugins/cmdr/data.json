@@ -34,7 +34,7 @@
     },
     {
       "id": "cmdr:macro-3",
-      "icon": "at-sign",
+      "icon": "user-plus",
       "name": "Commander: New Character",
       "mode": "any"
     }

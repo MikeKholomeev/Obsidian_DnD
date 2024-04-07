@@ -6,3 +6,10 @@
 list
 from "Lost Mines of Phandelver/4. Sessions" and [[]]
 ```
+
+
+###### Есть в Квестах
+```dataview
+list
+from "Lost Mines of Phandelver/3. Ongoing Quests" and [[]]
+```

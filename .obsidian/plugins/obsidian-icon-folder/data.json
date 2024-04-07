@@ -45,8 +45,9 @@
       {
         "rule": "6. Known Organization",
         "icon": "OcOrganization16",
-        "for": "everything",
-        "order": 3
+        "for": "files",
+        "order": 3,
+        "useFilePath": true
       }
     ],
     "extraMargin": {

@@ -12,7 +12,7 @@ if (selected_name != "") {
 
 const new_char_name = (selected_name == null) ? `{{new character}}` : selected_name;
 
-const template = tp.file.find_tfile("noteTemplate");
+const template = tp.file.find_tfile("DateTemplate");
 await tp.file.create_new(template, new_char_name, true, tfolder);
 
 const template2 = tp.file.find_tfile("Упоминания");

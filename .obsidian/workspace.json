@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lost Mines of Phandelver/4. Sessions/3 session.md",
+                "file": "Lost Mines of Phandelver/1. Players/_Party.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +120,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lost Mines of Phandelver/4. Sessions/3 session.md"
+                "file": "Lost Mines of Phandelver/1. Players/_Party.md"
               }
             }
           },
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lost Mines of Phandelver/4. Sessions/3 session.md",
+                "file": "Lost Mines of Phandelver/1. Players/_Party.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lost Mines of Phandelver/4. Sessions/3 session.md",
+                "file": "Lost Mines of Phandelver/1. Players/_Party.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,8 +188,9 @@
       "cmdr:Reload app without saving": false
     }
   },
-  "active": "f0c58559182e5671",
+  "active": "6797c2563b0641fe",
   "lastOpenFiles": [
+    "Lost Mines of Phandelver/4. Sessions/1 session.md",
     "Lost Mines of Phandelver/4. Sessions/3 session.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Narip - Избавление от власти Ифрита.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Untitled.md",
@@ -215,7 +216,6 @@
     "ztemplate/dataview.md",
     "Lost Mines of Phandelver/6. Known Organization/Маска лунного камня.md",
     "Lost Mines of Phandelver/6. Known Organization/Храм Огмы.md",
-    "Lost Mines of Phandelver/4. Sessions/1 session.md",
     "Lost Mines of Phandelver/5. Known Characters/татуировщику Люциусу.md",
     "Lost Mines of Phandelver/5. Known Characters/Юрген - бард.md",
     "Lost Mines of Phandelver/6. Known Organization",

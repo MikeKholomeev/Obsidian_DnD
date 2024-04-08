@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lost Mines of Phandelver/3. Ongoing Quests/Ограбление гильдии воров.md",
+                "file": "Lost Mines of Phandelver/1. Players/Narip.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lost Mines of Phandelver/3. Ongoing Quests/Ограбление гильдии воров.md"
+                "file": "Lost Mines of Phandelver/1. Players/Narip.md"
               }
             }
           },
@@ -135,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lost Mines of Phandelver/3. Ongoing Quests/Ограбление гильдии воров.md",
+                "file": "Lost Mines of Phandelver/1. Players/Narip.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lost Mines of Phandelver/3. Ongoing Quests/Ограбление гильдии воров.md",
+                "file": "Lost Mines of Phandelver/1. Players/Narip.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,8 +195,8 @@
   },
   "active": "4fd4d87141815912",
   "lastOpenFiles": [
-    "Lost Mines of Phandelver/4. Sessions/3 session.md",
     "Lost Mines of Phandelver/3. Ongoing Quests/Ограбление гильдии воров.md",
+    "Lost Mines of Phandelver/4. Sessions/3 session.md",
     "zImages/first_map.webp",
     "Lost Mines of Phandelver/3. Ongoing Quests/Кошки таксидермиста.md",
     "Lost Mines of Phandelver/4. Sessions/2 session.md",

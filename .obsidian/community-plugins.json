@@ -12,5 +12,6 @@
   "line-commands",
   "remember-cursor-position",
   "templater-obsidian",
-  "settings-search"
+  "settings-search",
+  "obsidian-plugin-update-tracker"
 ]

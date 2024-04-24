@@ -3,11 +3,13 @@
 .cm-matched-word,
 .cm-matched-string {
   text-decoration: underline dashed var(--text-accent);
+  background-color: rgba(229 149 149/ 29%);
 }
 
 .cm-current-word,
 .cm-current-string {
   text-decoration: underline dotted var(--text-accent);
+  background-color: rgba(229 149 149/ 79%);
 }
 
 /* #endregion selection highlighter styles */

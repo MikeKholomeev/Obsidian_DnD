@@ -23,5 +23,7 @@
   "ITS@@sidebar-tab-icon-size": 14,
   "ITS@@ribbon-width": 40,
   "ITS@@ITS-Sizes": "sizing-readable",
-  "ITS@@file-line-width": 1000
+  "ITS@@file-line-width": 1000,
+  "ITS@@text-highlight-bg@@light": "#E5D695C9",
+  "ITS@@highlight@@light": "#E59595C9"
 }
